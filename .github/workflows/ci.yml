@@ -23,9 +23,6 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: List files for debugging
-        run: ls -R
-
       - name: Start the application
         run: npm start &
         env:
