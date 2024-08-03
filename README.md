@@ -29,7 +29,7 @@ This repository contains the Cypress test automation suite for the CareValidate 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/Cypress_Automation.git
+    git clone (https://github.com/lakshmi-roja-p/Cypress_Automation.git)
     cd Cypress_Automation
     ```
 
@@ -61,7 +61,7 @@ To run the Cypress tests locally:
 
 ### CI/CD Pipeline
 
-This repository uses GitHub Actions to automatically run tests on each commit. The wor
+This repository uses GitHub Actions to automatically run tests on each commit. 
 
 
 
